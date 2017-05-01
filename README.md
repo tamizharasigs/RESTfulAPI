@@ -1,5 +1,4 @@
-# demo-rest-jersey-spring @ [![Codingpedia.org 100%](http://img.shields.io/badge/Codingpedia.org-100%25-blue.svg)](http://www.codingpedia.org)
-
+# demo-rest-jersey-spring 
 ## Prerequisites:
 * MySQL 5.5 or 5.6 
 * IDE ( preffered Eclipse 4.3+) 
@@ -33,13 +32,5 @@ OR
 ### SoapUI (recommended)
 - [download and install SoapUI](http://sourceforge.net/projects/soapui/files/)
 - import the REST project in SoapUI - [demo-rest-jersey-spring / src / main / resources / soapui / Test-Demo-REST-Jersey-with-Spring-soapui-project.xml](https://github.com/Codingpedia/demo-rest-jersey-spring/blob/master/src/main/resources/soapui/Test-Demo-REST-Jersey-with-Spring-soapui-project.xml)
-- check out our [How to test REST API with SoapUI](http://youtu.be/XV7WW0bDy9c) video tutorial on YouTube
 
-## Go to blog post
-[Tutorial – REST API design and implementation in Java with Jersey and Spring](http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/) - complete explanation of this implementation. 
-## Changelog
-
-## License
-
-[MIT](https://github.com/Codingpedia/demo-rest-jersey-spring/blob/master/LICENSE) &copy; [Codingpedia.org](http://www.codingpedia.org)
 
